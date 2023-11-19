@@ -1,7 +1,7 @@
 # E3D-Toolchanger-Wiper
 
 New design for E3D Toolchanger wiper inspired by [Kevin's Pebble Wiper](https://github.com/KevinMar1/Pebble_Wiper) <br>
-I designed this wiper mainly because I still had issues with reliability when using filmaments like flex, which are elimanted with this design.<br><br>
+I designed this wiper mainly because I still had issues with reliability when using filmaments like flex, which are eliminated with this design.<br><br>
 
 I recommend creating seperate wiper scripts for each type of filament. Fine tuning will depend on your machine.<br>
 Below are links to some of the parts I used to create this wiper.
