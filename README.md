@@ -19,6 +19,8 @@ https://amzn.to/47lGyEv
 https://amzn.to/3MRoTvZ
 - **Fiberlogy Easy PET-G Vertigo**  
 https://amzn.to/3MLDNUr
+<br>
+
 
 Some videos of the wiper in action
 
