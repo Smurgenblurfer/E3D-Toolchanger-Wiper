@@ -7,15 +7,15 @@ I recommend creating seperate wiper scripts for each type of filament. Fine tuni
 Below are links to some of the parts I used to create this wiper.
 
 Amazon (Germany)
-- **Nema 17 Stepper**
+- **Nema 17 Stepper**  
 https://amzn.to/3MPCJip
-- **Kapton Tape**
+- **Kapton Tape**  
 https://amzn.to/47HpBUA
-- **Silicone Brushes**
+- **Silicone Brushes**  
 https://amzn.to/3QOaG46
-- **Thermoshield Self-Adhesive Aluminium Tape**
+- **Thermoshield Self-Adhesive Aluminium Tape**  
 https://amzn.to/47lGyEv
-- **Aluminium Tape**
+- **Aluminium Tape**  
 https://amzn.to/3MRoTvZ
-- **Fiberlogy Easy PET-G Vertigo**
+- **Fiberlogy Easy PET-G Vertigo**  
 https://amzn.to/3MLDNUr
