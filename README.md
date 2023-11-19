@@ -22,11 +22,10 @@ https://amzn.to/3MLDNUr
 
 Some videos of the wiper in action
 
-
-https://github.com/Smurgenblurfer/E3D-Toolchanger-Wiper/assets/59959035/72099a83-1320-4392-8dfa-aa31101e79a2
-
 https://github.com/Smurgenblurfer/E3D-Toolchanger-Wiper/assets/59959035/8d1e502f-3da2-49d7-8df0-6684de5270c1
 
+
+https://github.com/Smurgenblurfer/E3D-Toolchanger-Wiper/assets/59959035/72099a83-1320-4392-8dfa-aa31101e79a2
 
 
 
